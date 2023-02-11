@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yhonier Alegria</h1>
-<h3 align="center">A passionate full stack developer » 'There is always something to improve'</h3>
+
+![](https://raw.githubusercontent.com/JhonierNEM/JhonierNEM/main/assets/FullStackDeveloper.png)
 
 - 🌱 I’m currently learning **Reactnative**
 
