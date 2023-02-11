@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoniernem&label=Profile%20views&color=0e75b6&style=flat" alt="jhoniernem" /> </p>
+
 <h1 align="center">Hi 👋, I'm Jhonier Alegria</h1>
 <h3 align="center">A passionate full stack developer » 'There is always something to improve'</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoniernem&label=Profile%20views&color=0e75b6&style=flat" alt="jhoniernem" /> </p>
 
 - 🌱 I’m currently learning **Reactnative**
 
