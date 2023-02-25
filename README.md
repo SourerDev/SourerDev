@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jhoniernem&label=Profile%20views&color=0e75b6&style=flat" alt="jhoniernem" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Yhonier Alegria</h1>
 
 ![](https://raw.githubusercontent.com/JhonierNEM/JhonierNEM/main/assets/FullStackDeveloper.png)
