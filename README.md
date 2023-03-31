@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yhonier Alegria</h1>
 <p align="center"></p>
 
-- 🌱 I’m currently learning **Reactnative**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React - Redux, Express.js**
 
