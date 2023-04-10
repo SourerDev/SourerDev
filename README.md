@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yhonier Alegria</h1>
 <p align="left">Web developer passionate about technology and the digital world. I have always had a great curiosity for the way things work, and this led me to become interested in programming and web development.</p>
 
-- 🌱 I’m currently learning **Flutter **
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React - Redux, Express.js**
 
