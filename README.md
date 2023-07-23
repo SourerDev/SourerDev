@@ -2,7 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=jhoniernem&label=Profile%20views&color=0e75b6&style=flat" alt="jhoniernem" />
 </p>
 <h1 align="center">Hi 👋, I'm Yhonier Alegria</h1>
-<p align="left">Web developer passionate about technology and the digital world. I have always had a great curiosity for the way things work, and this led me to become interested in programming and web development.</p>
+<p align="left">
+  I love working with typescript and react, I have experience creating attractive and functional user interfaces. My main goal is to merge my love for design and programming to deliver exceptional digital experiences.
+
+If you are looking for a Frontend Developer committed to excellence and innovation, do not hesitate to contact me. I am excited to explore new opportunities and contribute to the success of your project.
+</p>
 
 - 🌱 I’m currently learning **Flutter**
 
